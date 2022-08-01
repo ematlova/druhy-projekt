@@ -10,3 +10,10 @@ h1 {
 .kokos {
     color: rgb(60, 59, 59) 
 }
+
+.ctverecek {
+    width: 30px;
+    height: 30px;
+    border: 30px;
+    background-color: rgb(227, 132, 227);
+}
